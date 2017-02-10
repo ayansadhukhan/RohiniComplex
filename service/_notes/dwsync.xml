@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="getPermissions.php" server="E:/ProgramFiles/xampp/htdocs/Rohiniweb/" local="130772771376449383" remote="130772771370000000" Dst="0" />
+<file name="logon.php" server="E:/ProgramFiles/xampp/htdocs/Rohiniweb/" local="130772269100255046" remote="130772269100000000" Dst="0" />
+<file name="getProfileByUserID.php" server="E:/ProgramFiles/xampp/htdocs/Rohiniweb/" local="130772819106199369" remote="130772819100000000" Dst="0" />
+<file name="getAssetsByUserID.php" server="E:/ProgramFiles/xampp/htdocs/Rohiniweb/" local="130772889883187581" remote="130772889880000000" Dst="0" />
+<file name="getBillByUserID.php" server="E:/ProgramFiles/xampp/htdocs/Rohiniweb/" local="130773409076688981" remote="130773409070000000" Dst="0" />
+<file name="namesearch.php" server="E:/ProgramFiles/xampp/htdocs/Rohiniweb/" local="130773436516108426" remote="130773436510000000" Dst="0" />
+<file name="getPendingCharges.php" server="E:/ProgramFiles/xampp/htdocs/Rohiniweb/" local="130773669464316070" remote="130773669460000000" Dst="0" />
+<file name="addPayment.php" server="E:/ProgramFiles/xampp/htdocs/Rohiniweb/" local="130776390376590984" remote="130776390370000000" Dst="0" />
+<file name="getVides.php" server="E:/ProgramFiles/xampp/htdocs/Rohiniweb/" local="130774012812435321" remote="130774012810000000" Dst="0" />
+<file name="testproc.php" server="E:/ProgramFiles/xampp/htdocs/Rohiniweb/" local="130776376536999404" remote="130776376530000000" Dst="0" />
+<file name="getExpenseType.php" server="E:/ProgramFiles/xampp/htdocs/Rohiniweb/" local="130776473880260313" remote="130776473880000000" Dst="0" />
+<file name="getPastPaytoExp.php" server="E:/ProgramFiles/xampp/htdocs/Rohiniweb/" local="130776481564879849" remote="130776481560000000" Dst="0" />
+<file name="getMemberList.php" server="E:/ProgramFiles/xampp/htdocs/Rohiniweb/" local="130800691975332085" remote="130800691970000000" Dst="0" />
+<file name="getAllMembers.php" server="E:/ProgramFiles/xampp/htdocs/Rohiniweb/" local="130808138584244347" remote="130808138580000000" Dst="0" />
+<file name="getMemberDetailsByID.php" server="E:/ProgramFiles/xampp/htdocs/Rohiniweb/" local="130808249928954185" remote="130808249920000000" Dst="0" />
+<file name="getAllRoles.php" server="E:/ProgramFiles/xampp/htdocs/Rohiniweb/" local="130808299678549699" remote="130808299670000000" Dst="0" />
+<file name="getAllPermissions.php" server="E:/ProgramFiles/xampp/htdocs/Rohiniweb/" local="130808300619063494" remote="130808300610000000" Dst="0" />
+<file name="getAllAssets.php" server="E:/ProgramFiles/xampp/htdocs/Rohiniweb/" local="130808464823668673" remote="130808464820000000" Dst="0" />
+<file name="getCurrentAssetByUserID.php" server="E:/ProgramFiles/xampp/htdocs/Rohiniweb/" local="130817191552889494" remote="130817191550000000" Dst="0" />
+<file name="getAllRelations.php" server="E:/ProgramFiles/xampp/htdocs/Rohiniweb/" local="130817163415380121" remote="130817163410000000" Dst="0" />
+</dwsync>
