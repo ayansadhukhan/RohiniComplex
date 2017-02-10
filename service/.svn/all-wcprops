@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/rohiniwebsite/!svn/ver/6/service
+END
+getBillByUserID.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/rohiniwebsite/!svn/ver/8/service/getBillByUserID.php
+END
+getAllRelations.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/rohiniwebsite/!svn/ver/13/service/getAllRelations.php
+END
+getCurrentAssetByUserID.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/rohiniwebsite/!svn/ver/13/service/getCurrentAssetByUserID.php
+END
+getAllAssets.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/rohiniwebsite/!svn/ver/12/service/getAllAssets.php
+END
+getPastPaytoExp.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/rohiniwebsite/!svn/ver/11/service/getPastPaytoExp.php
+END
+getMemberList.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/rohiniwebsite/!svn/ver/10/service/getMemberList.php
+END
+testproc.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/rohiniwebsite/!svn/ver/11/service/testproc.php
+END
+getAllPermissions.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/rohiniwebsite/!svn/ver/12/service/getAllPermissions.php
+END
+namesearch.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/rohiniwebsite/!svn/ver/8/service/namesearch.php
+END
+getProfileByUserID.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/rohiniwebsite/!svn/ver/8/service/getProfileByUserID.php
+END
+getAssetsByUserID.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/rohiniwebsite/!svn/ver/8/service/getAssetsByUserID.php
+END
+getExpenseType.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/rohiniwebsite/!svn/ver/11/service/getExpenseType.php
+END
+getVides.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/rohiniwebsite/!svn/ver/11/service/getVides.php
+END
+getPermissions.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/rohiniwebsite/!svn/ver/6/service/getPermissions.php
+END
+getAllRoles.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/rohiniwebsite/!svn/ver/12/service/getAllRoles.php
+END
+logon.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/rohiniwebsite/!svn/ver/6/service/logon.php
+END
+getPendingCharges.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/rohiniwebsite/!svn/ver/8/service/getPendingCharges.php
+END
+getAllMembers.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/rohiniwebsite/!svn/ver/11/service/getAllMembers.php
+END
+getMemberDetailsByID.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/rohiniwebsite/!svn/ver/12/service/getMemberDetailsByID.php
+END
+addPayment.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/rohiniwebsite/!svn/ver/11/service/addPayment.php
+END
