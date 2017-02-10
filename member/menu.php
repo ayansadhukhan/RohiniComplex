@@ -75,8 +75,8 @@ nav ul li:hover ul {
 </style>
 <nav>
 <ul><li>Account Summary</li>
-  <li ><a href="profile.php">Profile</a></li>
-  <li ><a href="asset.php">
+  <li ><a href=<?php $_SERVER['DOCUMENT_ROOT'] ?>"/member/profile.php">Profile</a></li>
+  <li ><a href=<?php $_SERVER['DOCUMENT_ROOT'] ?>"/member/asset.php">
 Asset</a>
     <!--<ul>
       <li>Web Design</li>
@@ -84,11 +84,11 @@ Asset</a>
       <li>Illustrations</li>
     </ul> -->
   </li>
-  <li ><a href="paymenthistory.php">Payment History</a></li>
-  <li ><a href="charge.php">Charges</a></li>
-    <li><a href="ledgerjournal.php">Ledger / Journal</a></li>
-        <li ><a href="notice.php">Notice</a></li>
-        <li><a href="transaction/transaction.php">Transaction</a></li>
-        <li><a href="manage/memberlist.php">Manage Members</a></li>
-           <li><a href="admin/admin.php">Administration</a></li>        
+  <li ><a href=<?php $_SERVER['DOCUMENT_ROOT'] ?>"/member/paymenthistory.php">Payment History</a></li>
+  <li ><a href=<?php $_SERVER['DOCUMENT_ROOT'] ?>"/member/charge.php">Charges</a></li>
+    <li><a href=<?php $_SERVER['DOCUMENT_ROOT'] ?>"/member/ledgerjournal.php">Ledger / Journal</a></li>
+        <li ><a href=<?php $_SERVER['DOCUMENT_ROOT'] ?>"/member/notice.php">Notice</a></li>
+        <li><a href=<?php $_SERVER['DOCUMENT_ROOT'] ?>"/member/transaction/transaction.php">Transaction</a></li>
+        <li><a href=<?php $_SERVER['DOCUMENT_ROOT'] ?>"/member/manage/memberlist.php">Manage Members</a></li>
+           <li><a href=<?php $_SERVER['DOCUMENT_ROOT'] ?>"/member/admin/admin.php">Administration</a></li>        
 </ul></nav>
