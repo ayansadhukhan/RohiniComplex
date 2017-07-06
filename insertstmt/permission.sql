@@ -1,0 +1,8 @@
+/*
+-- Query: SELECT * FROM rohinicomplex.permission
+LIMIT 0, 1000
+
+-- Date: 2017-02-12 12:10
+*/
+INSERT INTO `permission` (`ID`,`NAME`,`DISPLAY_NAME`,`RETIRED`) VALUES (1,'LOGIN','LOGIN',0);
+INSERT INTO `permission` (`ID`,`NAME`,`DISPLAY_NAME`,`RETIRED`) VALUES (2,'VIEWPROFILE','VIEWPROFILE',0);

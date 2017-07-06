@@ -1,0 +1,8 @@
+/*
+-- Query: SELECT * FROM rohinicomplex.assettype
+LIMIT 0, 1000
+
+-- Date: 2017-02-12 12:04
+*/
+INSERT INTO `assettype` (`ID`,`NAME`,`DESCRIPTION`,`CODE`,`RETIRED`) VALUES (1,'FLAT','FLAT','FLAT',0);
+INSERT INTO `assettype` (`ID`,`NAME`,`DESCRIPTION`,`CODE`,`RETIRED`) VALUES (2,'GARRIAGE','GARRIAGE','GARRIAGE',0);
